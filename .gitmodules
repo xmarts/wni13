@@ -1,3 +1,0 @@
-[submodule "payment-receipt"]
-	path = payment-receipt
-	url = git@github.com:xmarts/payment-receipt.git
