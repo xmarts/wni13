@@ -2,3 +2,6 @@
 	path = custom_report_mate
 	url = git@github.com:viernes/custom_report_mate.git
 	branch = master
+[submodule "payment-receipt"]
+	path = payment-receipt
+	url = https://github.com/xmarts/payment-receipt.git
